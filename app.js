@@ -1,4 +1,4 @@
-var a = 20;
-var b = "\n yaha dekn Ajeeb si";
+var a = "Hello";
+var b = "\n World";
 var c = a+b;
 alert(c);
